@@ -1,0 +1,30 @@
+{
+	"answers": {
+		"request001": {
+			"result": "true",
+			"relevance": {
+				"docid_3": 1.000,
+				"docid_2": 0.857,
+				"docid_0": 0.785
+			}
+		},
+		"request002": {
+			"result": "true",
+			"docid_0": 1.000
+		},
+		"request003": {
+			"result": "true",
+			"relevance": {
+				"docid_0": 1.000,
+				"docid_2": 1.000
+			}
+		},
+		"request004": {
+			"result": "true",
+			"docid_0": 1.000
+		},
+		"request005": {
+			"result": "false"
+		}
+	}
+}
